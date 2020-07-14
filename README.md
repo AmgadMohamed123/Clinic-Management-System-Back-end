@@ -34,12 +34,8 @@ Medical practice management software needs to have a wide range of features in o
 => **snippet about Apache Tomcat**
 Apache Tomcat is used to deploy your Java Servlets and JSPs. So in your Java project you can build your WAR (short for Web ARchive) file, and just drop it in the deploy directory in Tomcat. So basically Apache is an HTTP Server, serving HTTP. Tomcat is a Servlet and JSP Server serving Java technologies. actually tomcat's only dependency is a JRE, it runs on the Java Virtual Machine.
 
-### References
-=> FrontEnd
-* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference (recommended)
-* https://www.baeldung.com/spring-jpa-like-queries
-* https://stackoverflow.com/questions/54455548/handling-date-as-request-params-in-spring-boot-getting-error
-* https://www.techiedelight.com/single-line-expressions-swap-two-integers-java/
+# References
+
 
 => BackEnd
 * https://stackoverflow.com/questions/44848653/pagerequest-constructors-have-been-deprecated
